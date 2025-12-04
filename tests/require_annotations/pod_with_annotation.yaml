@@ -6,7 +6,7 @@ metadata:
     run: nginx-with
   annotations:
     corp.org/department: tcg
-  name: nginx
+  name: nginx-with
 spec:
   containers:
   - image: nginx
